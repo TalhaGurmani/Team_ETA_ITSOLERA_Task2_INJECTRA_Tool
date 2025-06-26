@@ -1,7 +1,7 @@
 
 # 🛡️ Injectra
 
-Injectra is a powerful CLI-based payload generator and vulnerability testing toolkit designed for penetration testers and bug bounty hunters. It supports XSS, SQL Injection, and Command Injection vectors with payload customization, encoding options, and export features.
+Injectra is a CLI-based payload generator and vulnerability testing toolkit designed for penetration testers and bug bounty hunters. It supports XSS, SQL Injection, and Command Injection vectors with payload customization, encoding options, and export features.
 
 
 ## 📦 Features
